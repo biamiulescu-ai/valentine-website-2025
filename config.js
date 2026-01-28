@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Jade",
+    valentineName: Cristi,fostul meu iubit acum😒
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -20,7 +20,7 @@ const CONFIG = {
 
     // Questions and answers
     // Customize each question and its possible responses
-    questions: {
+    questions: { tu vrei sa ne impacam .
         first: {
             text: "Do you like me?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
